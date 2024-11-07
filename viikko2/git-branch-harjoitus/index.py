@@ -12,9 +12,7 @@ print(f"{x} - {y} = {erotus(x, y)}")
 print(f"{x} * {y} = {tulo(x, y)}") 
 
 logger("lopetetaan")
-<<<<<<< HEAD
-print("goodbye!")
 
-=======
+print("goodbye!")
 print("goodbye!") # muutos klooni main
->>>>>>> 41a1ce5 (klone main)
+
